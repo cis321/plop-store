@@ -2,75 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="76ca5567-3f55-461a-8677-31a588902218" name="Default" comment="">
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-eventually/LICENSE.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-eventually/README.txt" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-eventually/assets/.sass-cache/3e2984aa8dc687413fe04d07a56864b0bc352e02/_bg.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-eventually/assets/.sass-cache/3e2984aa8dc687413fe04d07a56864b0bc352e02/_page.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-eventually/assets/.sass-cache/3e2984aa8dc687413fe04d07a56864b0bc352e02/_typography.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-eventually/assets/.sass-cache/416ef32e70133cd421b96ba452eb2ac786ea0d19/_banner.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-eventually/assets/.sass-cache/416ef32e70133cd421b96ba452eb2ac786ea0d19/_bg.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-eventually/assets/.sass-cache/416ef32e70133cd421b96ba452eb2ac786ea0d19/_footer.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-eventually/assets/.sass-cache/416ef32e70133cd421b96ba452eb2ac786ea0d19/_header.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-eventually/assets/.sass-cache/416ef32e70133cd421b96ba452eb2ac786ea0d19/_main.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-eventually/assets/.sass-cache/416ef32e70133cd421b96ba452eb2ac786ea0d19/_nav.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-eventually/assets/.sass-cache/416ef32e70133cd421b96ba452eb2ac786ea0d19/_notify-form.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-eventually/assets/.sass-cache/416ef32e70133cd421b96ba452eb2ac786ea0d19/_signup-form.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-eventually/assets/.sass-cache/87a8ff9934eeff440c9c0c2118f6f51e865bd172/ie8.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-eventually/assets/.sass-cache/87a8ff9934eeff440c9c0c2118f6f51e865bd172/ie9.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-eventually/assets/.sass-cache/87a8ff9934eeff440c9c0c2118f6f51e865bd172/main.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-eventually/assets/.sass-cache/920148cb95073097b1ecc72cb5d5b888545b9cc7/_box.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-eventually/assets/.sass-cache/920148cb95073097b1ecc72cb5d5b888545b9cc7/_button.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-eventually/assets/.sass-cache/920148cb95073097b1ecc72cb5d5b888545b9cc7/_form.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-eventually/assets/.sass-cache/920148cb95073097b1ecc72cb5d5b888545b9cc7/_grid-demo.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-eventually/assets/.sass-cache/920148cb95073097b1ecc72cb5d5b888545b9cc7/_icon.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-eventually/assets/.sass-cache/920148cb95073097b1ecc72cb5d5b888545b9cc7/_image.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-eventually/assets/.sass-cache/920148cb95073097b1ecc72cb5d5b888545b9cc7/_list.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-eventually/assets/.sass-cache/920148cb95073097b1ecc72cb5d5b888545b9cc7/_section.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-eventually/assets/.sass-cache/920148cb95073097b1ecc72cb5d5b888545b9cc7/_table.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-eventually/assets/.sass-cache/a365a03aed6ff283a23b9df8af64a59cd9d80f02/_functions.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-eventually/assets/.sass-cache/a365a03aed6ff283a23b9df8af64a59cd9d80f02/_mixins.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-eventually/assets/.sass-cache/a365a03aed6ff283a23b9df8af64a59cd9d80f02/_skel.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-eventually/assets/.sass-cache/a365a03aed6ff283a23b9df8af64a59cd9d80f02/_vars.scssc" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-eventually/assets/css/font-awesome.min.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-eventually/assets/css/ie8.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-eventually/assets/css/ie9.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-eventually/assets/css/main.css" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-eventually/assets/fonts/FontAwesome.otf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-eventually/assets/fonts/fontawesome-webfont.eot" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-eventually/assets/fonts/fontawesome-webfont.svg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-eventually/assets/fonts/fontawesome-webfont.ttf" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-eventually/assets/fonts/fontawesome-webfont.woff" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-eventually/assets/fonts/fontawesome-webfont.woff2" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-eventually/assets/js/ie/html5shiv.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-eventually/assets/js/ie/respond.min.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-eventually/assets/js/main.js" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-eventually/assets/sass/base/_bg.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-eventually/assets/sass/base/_page.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-eventually/assets/sass/base/_typography.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-eventually/assets/sass/components/_button.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-eventually/assets/sass/components/_form.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-eventually/assets/sass/components/_icon.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-eventually/assets/sass/components/_list.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-eventually/assets/sass/components/_section.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-eventually/assets/sass/ie8.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-eventually/assets/sass/ie9.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-eventually/assets/sass/layout/_footer.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-eventually/assets/sass/layout/_header.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-eventually/assets/sass/layout/_signup-form.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-eventually/assets/sass/libs/_functions.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-eventually/assets/sass/libs/_mixins.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-eventually/assets/sass/libs/_skel.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-eventually/assets/sass/libs/_vars.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-eventually/assets/sass/main.scss" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-eventually/images/48__2_.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-eventually/images/7527956990_a6b06f45ca_o.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-eventually/images/9437317674_2e0d831e24_o.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-eventually/images/_270_.jpg" afterPath="" />
-      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-eventually/index.html" afterPath="" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/index.html" afterPath="$PROJECT_DIR$/app/index.html" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/app/styles/main.css" afterPath="$PROJECT_DIR$/app/styles/main.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/plop-store.iml" afterPath="$PROJECT_DIR$/.idea/plop-store.iml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/html5up-eventually.zip" afterPath="" />
     </list>
     <ignored path="plop-store.iws" />
     <ignored path=".idea/workspace.xml" />
