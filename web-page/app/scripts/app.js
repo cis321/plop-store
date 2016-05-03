@@ -20,7 +20,7 @@ plopStoreApp.run(['$rootScope', '$state', '$location',
      * @param data
      * @constructor
      */
-    function GetSystemSettingSuccess(data){
+    function GetSystemSettingSuccess (data){
       var domain = data.domain;
       var host = $location.host();
       var subdomainEndIndex = host.search( domain);
